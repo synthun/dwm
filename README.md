@@ -3,6 +3,7 @@ my SUPER retarded build of dwm
 
 ## installed patches
 autostart (dwm)
+
 center (dmenu) **(optional)**
 
 ## installation
