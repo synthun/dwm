@@ -1,7 +1,11 @@
 # dwm - dynamic window manager
 my SUPER retarded build of dwm 
 
-## installation for noobs
+## installed patches
+autostart (dwm)
+center (dmenu) **(optional)**
+
+## installation
 ```
 git clone https://github.com/synthun/dwm
 make
