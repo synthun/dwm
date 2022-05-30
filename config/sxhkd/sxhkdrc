@@ -1,0 +1,5 @@
+super + c
+  notify-send "date" $(date)
+  
+Print
+  flameshot gui
