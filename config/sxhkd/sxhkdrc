@@ -1,5 +1,13 @@
-super + c
-  notify-send "date" $(date)
-  
+# screenshotting utility
 Print
   flameshot gui
+
+# media keys
+XF86AudioPlay
+	playerctl play-pause
+
+XF86AudioNext
+	playerctl next
+
+XF86AudioPrev
+	playerctl previous
