@@ -1,6 +1,6 @@
 # dwm - dynamic window manager
 
-dwm is an extremely fast, small, gay, and dynamic window manager for X.
+dwm is an extremely fast, small, and dynamic window manager for X.
 
 ## Requirements
 
@@ -50,5 +50,3 @@ exec dwm
 The configuration of dwm is done by creating a custom config.h and (re)compiling the source code.
 
 ![image](https://user-images.githubusercontent.com/84999468/171289411-690515a5-f172-46ea-bf63-b8b46c6b2dbc.png)
-
-# ur super gay bro
