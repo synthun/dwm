@@ -16,8 +16,6 @@ Afterwards enter the following command to build and install dwm (if necessary as
 make clean install
 ```
 
-If you are going to use the default bluegray color scheme it is highly recommended to also install the bluegray files shipped in the dextra package.
-
 ## Running dwm
 
 Add the following line to your .xinitrc to start dwm using startx:
