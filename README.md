@@ -8,7 +8,7 @@ In order to build dwm you need the Xlib header files.
 
 ## Installation
 
-Edit config.mk to match your local setup (dwm is installed into the /usr/local namespace by default).
+Edit `config.mk` to match your local setup (dwm is installed into the `/usr/local` namespace by default).
 
 Afterwards enter the following command to build and install dwm (if necessary as root):
 
@@ -18,7 +18,7 @@ make clean install
 
 ## Running dwm
 
-Add the following line to your .xinitrc to start dwm using startx:
+Add the following line to your `.xinitrc` to start dwm using startx:
 
 ```
 exec dwm
