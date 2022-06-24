@@ -13,10 +13,11 @@ static const char dmenufont[]       = "Iosevka:size=12";
 static const char col_bg[]          = "#000000";
 static const char col_fg[]	    = "#ffffff";
 static const char col_pr[]          = "#fcba03";
+static const char col_in[]          = "#222222";
 
 static const char *colors[][3]      = {
 	/*             fg           bg         border   */
-	[SchemeNorm] = { col_fg,    col_bg,    col_fg },
+	[SchemeNorm] = { col_fg,    col_bg,    col_in  },
 	[SchemeSel]  = { col_bg,    col_pr,    col_pr  },
 };
 
@@ -56,7 +57,7 @@ static const Layout layouts[] = {
 /* commands */
 static char dmenumon[2] = "0"; /* component of dmenucmd, manipulated in spawn() */
 static const char *dmenucmd[] = 	{ "dmenu_run", "-m", dmenumon, "-fn", dmenufont, "-nb", col_bg, "-nf", col_fg, "-sb", col_pr, "-sf", col_bg, NULL };
-static const char *termcmd[]  = 	{ "alacritty", NULL };
+static const char *termcmd[]  = 	{ "st", NULL };
 
 static Key keys[] = {
 	/* modifier                     key        function        argument */
