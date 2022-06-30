@@ -50,7 +50,11 @@ The configuration of dwm is done by creating a custom config.h and (re)compiling
 ![image](https://user-images.githubusercontent.com/84999468/176069951-8a6b8535-7c34-463f-a14b-ca55920be46f.png)
 
 also see:
+
 [st](https://github.com/synthun/st)
+
 [dunst](https://github.com/dunst-project/dunst)
+
 [neofetch](https://github.com/dylanaraps/neofetch)
+
 [nitrogen](https://github.com/l3ib/nitrogen)
