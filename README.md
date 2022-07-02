@@ -47,11 +47,13 @@ exec dwm
 
 The configuration of dwm is done by creating a custom config.h and (re)compiling the source code.
 
-![image](https://user-images.githubusercontent.com/84999468/176069951-8a6b8535-7c34-463f-a14b-ca55920be46f.png)
+![image](https://user-images.githubusercontent.com/84999468/177017564-ed121d0d-d6e6-49ae-9bc6-8973931f84f4.png)
 
 also see:
 
 [st](https://github.com/synthun/st)
+
+[dotfiles](https://github.com/synthun/dotfiles)
 
 [dunst](https://github.com/dunst-project/dunst)
 
