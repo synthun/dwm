@@ -47,7 +47,7 @@ exec dwm
 
 The configuration of dwm is done by creating a custom config.h and (re)compiling the source code.
 
-![image](https://user-images.githubusercontent.com/84999468/177017564-ed121d0d-d6e6-49ae-9bc6-8973931f84f4.png)
+![image](https://user-images.githubusercontent.com/84999468/178664094-56f8f22b-b3cb-4607-b407-f7700400f0b9.png)
 
 also see:
 
