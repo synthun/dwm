@@ -51,8 +51,6 @@ The configuration of dwm is done by creating a custom config.h and (re)compiling
 
 also see:
 
-[st](https://github.com/synthun/st)
-
 [dotfiles](https://github.com/synthun/dotfiles)
 
 [dunst](https://github.com/dunst-project/dunst)
